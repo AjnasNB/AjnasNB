@@ -1,7 +1,7 @@
-[!MasterHead](banner.png)
+![MasterHead](banner.png)
 <h1 align="center">Hi 👋, I'm AJNAS N B</h1>
 <h3 align="center">Tech enthusiast and a passionate web developer</h3>
-<img align="right" width="500" src="https://gifimage.net/wp-content/uploads/2018/06/technology-gif-5.gif">
+<img align="right" width="500" src="output-onlinegiftools.gif">
 
 - 🔭 I’m currently working on **open source projects**
 
