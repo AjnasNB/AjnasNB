@@ -13,9 +13,9 @@
 
 - 🤝 I’m learning and looking for help with **various web3 frameworks**
 
-- 👨‍💻 All of my projects are available at [ajnasnb.me](ajnasnb.me)
+- 👨‍💻 All of my projects are available at https://ajnasnb.me
 
-- 📝 I sometimes write articles on [blog.ajnasnb.me](blog.ajnasnb.me)
+- 📝 I sometimes write articles on blog.ajnasnb.me
 
 - 💬 Ask me about **javascript ,react , nodejs**
 
