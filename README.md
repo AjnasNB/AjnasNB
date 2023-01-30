@@ -13,7 +13,7 @@
 
 - 🤝 I’m learning and looking for help with **various web3 frameworks**
 
-- 👨‍💻 All of my projects are available at https://ajnasnb.me
+- 👨‍💻 Know me at https://ajnasnb.me
 
 - 📝 I sometimes write articles on blog.ajnasnb.me
 
