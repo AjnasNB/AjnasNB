@@ -1,4 +1,4 @@
-![  ](banner.png)
+![  ](https://github.com/AjnasNB/AjnasNB/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Ajnas N B</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
