@@ -36,7 +36,8 @@
 
 ![AjnasNB's Stats](https://github-readme-stats.vercel.app/api?username=AjnasNB&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)<br/>
 ![AjnasNB's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AjnasNB&theme=highcontrast&hide_border=true)<br/>
-![AjnasNB's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjnasNB&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+![AjnasNB's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjnasNB&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)<br/>
+[![AjnasNB's GitHub | Stats](https://stats.quine.sh/AjnasNB/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AjnasNB)
 
 ## 🏆 GitHub Trophies
 
