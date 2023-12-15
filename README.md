@@ -14,7 +14,7 @@
 
 - 🤝 I’m learning and looking for help with **various web3 frameworks**
 
-- 👨‍💻 Know me at https://ajnasnb.me
+- 👨‍💻 Know me at https://ajnasnb.live
 
 - 📝 I sometimes write articles on blog.ajnasnb.me
 
