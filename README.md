@@ -6,25 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajnasnb&label=Profile%20views&color=0e75b6&style=flat" alt="ajnasnb" /> </p>
 
 
-- 🔭 I’m currently working on **opensource projects**
-
-- 🌱 I’m currently learning **web2 and web3 frameworks**
-
-- 👯 I’m looking to collaborate on **different django projects**
-
-- 🤝 I’m learning and looking for help with **various web3 frameworks**
-
-- 👨‍💻 Know me at https://ajnasnb.live
-
-- 📝 I sometimes write articles on blog.ajnasnb.me
-
-- 💬 Ask me about **javascript ,react , nodejs**
-
-- 📫 How to reach me **ajnasnb@gmail.com**
-
-- ⚡ Fun fact: **I'm not at all funny😉😉**
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_a.jnas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajnasnb) 
 
