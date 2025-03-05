@@ -1,30 +1,31 @@
-![  ](https://github.com/AjnasNB/AjnasNB/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Ajnas N B</h1>
-<h3 align="center">A passionate Engineer from India</h3>
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=19&pause=1000&color=47F729&width=435&lines=Web+developer++Enterpreneur+and+Freelancer" alt="Typing SVG" /></div>
+# Hi, I'm Ajnas N B 👋  
+🚀 **Engineer | Full Stack Developer | AI Enthusiast**  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajnasnb&label=Profile%20views&color=0e75b6&style=flat" alt="ajnasnb" /> </p>
+🔗 [Portfolio](https://ajnasnb.com) | [LinkedIn](https://linkedin.com/in/ajnasnb) | [GitHub](https://github.com/AjnasNB)  
 
+## 💻 About Me  
+- **Associate Software Engineer** @ Altera Digital Health  
+  - Automated API & UI testing (C#, Selenium, SpecFlow)  
+  - Built an AI medical assistant improving workflows by **30%**  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_a.jnas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajnasnb) 
+- **Full Stack Engineer** @ Cognifyr.CO  
+  - Developed **blockchain financial apps**  
+  - Automated internal tools reducing workload by **80%**  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Node js](https://img.shields.io/badge/nodejs%20-brightgreen.svg?style=for-the-badge&amp;logo=node.js&amp;logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+- **Freelancer**  
+  - Built **AI-powered calling agents** saving **65%** on costs  
+  - Developed **real-time data dashboards** with Python & SQL  
 
-# 📊 GitHub Stats:
+## ⚡ Tech Stack  
+🚀 **Languages**: C, C++, Python, JavaScript, Solidity, C#  
+🚀 **Frameworks**: React, Node.js, Express, Next.js, Electron.js  
+🚀 **AI/ML**: OpenAI API, LLaMA, AWS Bedrock, Computer Vision  
+🚀 **Blockchain**: Solidity, IPFS, Chainlink VRF  
+🚀 **Cloud**: AWS, Azure, Docker, Kubernetes  
 
-![AjnasNB's Stats](https://github-readme-stats.vercel.app/api?username=AjnasNB&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)<br/>
-![AjnasNB's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AjnasNB&theme=highcontrast&hide_border=true)<br/>
-![AjnasNB's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjnasNB&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)<br/>
-[![AjnasNB's GitHub | Stats](https://stats.quine.sh/AjnasNB/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AjnasNB)
+## 🏆 Notable Projects  
+- **CallYourBuddy** (AI voice companion, Serverless, 50K+ users)  
+- **SantaCallingAI** (AI conversational bot, handles 100K+ live interactions)  
+- **AlteraNexus** (AI-powered medical workflow assistant, top 3 hackathon)  
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=AjnasNB&theme=dracula&no-frame=false&no-bg=true&margin-w=4"><br/>
-### ✍️ Quotes are fun, when u feel the same.
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-
-
-
+📬 **Get in Touch**: ajnasulqubra@gmail.com  
