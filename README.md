@@ -4,7 +4,7 @@
 🔗 [Portfolio](https://ajnasnb.com) | [LinkedIn](https://linkedin.com/in/ajnasnb) | [GitHub](https://github.com/AjnasNB)  
 
 ## 💻 About Me  
-- **Associate Software Engineer** @ Altera Digital Health  
+- **Software Engineer** @ Altera Digital Health  
   - Automated API & UI testing (C#, Selenium, SpecFlow)  
   - Built an AI medical assistant improving workflows by **30%**  
 
