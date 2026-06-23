@@ -1,136 +1,294 @@
-# 👋 Hi, I'm **Ajnas N B**
+# 👋 Hi, I’m Ajnas N B
 
-🚀 **Founder & CTO | Full Stack Engineer | AI & Agentic Systems Architect**  
-💡 I build scalable SaaS products, multi-agent AI systems, and real-time conversational applications.
+### Founder & CTO at [Cognifyr](https://cognifyr.co)
 
-🔗 **Portfolio:** https://ajnasnb.com  
-🔗 **LinkedIn:** https://linkedin.com/in/ajnasnb  
-🔗 **GitHub:** https://github.com/AjnasNB  
-📧 **Email:** ajnasulqubra@gmail.com  
-📍 **Kochi, India**
+### Full Stack Engineer · AI Systems Architect · Agentic AI Builder
 
----
+I build **AI-first products, scalable SaaS platforms, enterprise RAG systems, voice AI agents, and automation infrastructure** for real businesses.
 
-## 🧑‍💻 About Me
+My work sits at the intersection of:
 
-I create AI-powered products and enterprise-grade platforms that combine **agentic AI**, **multi-tenant SaaS**, **RAG systems**, and **cloud engineering**.  
+* Enterprise AI
+* Agentic systems
+* Real-time conversational AI
+* Multi-tenant SaaS
+* Secure RAG and private knowledge systems
+* Cloud-native product engineering
 
-As **Founder & CTO of Cognifyr.co**, I lead development of AI-driven EdTech, HR tech, workflow automation, and conversational platforms used across industries.
-
-My builds consistently go from **idea → prototype → production**, with real users and real business impact.
+I like building systems that move from **idea → prototype → production → real users**.
 
 ---
 
-# 🚀 Experience
+## 🚀 What I Build
 
-## **Founder & CTO — Cognifyr.co**  
-**Dec 2023 – Present | Kochi, India**
+### 🧠 Enterprise AI & RAG Systems
 
-Built and scaled a service-based technology company delivering AI-powered SaaS and enterprise solutions.
+I design secure AI assistants that work on private company data, internal documents, dashboards, databases, and role-based access controls.
 
-### 🏫 **Cogni-ed — AI-first EdTech SaaS**
-- LMS with live/recorded classes, tests, analytics  
-- Reduced operational overhead by **60%**
+Recent work includes:
 
-### 👥 **Cogni-HR — AI Recruitment & HR Suite**
-- AI JD generator, resume parser, candidate ranking  
-- Interview automation, attrition prediction  
-- Cut hiring/screening time by **45%**
+* Enterprise knowledge assistants for large business groups
+* Private on-prem AI + RAG for sensitive healthcare research
+* Role-based retrieval systems where users only see what they are authorized to access
+* Hybrid search with citations, guardrails, and audit logs
+* Admin dashboards for managing AI usage, documents, users, and permissions
 
-### 🧠 **Cogni-AI — Enterprise RAG & Agent Platform**
-- Multi-tenant, role-based assistants  
-- Secure PDF/Drive/Notion ingestion  
-- Hybrid retrieval + citations  
-- Used for HR, compliance & operations
-
-### 🍽️ **Cogni-QR — AI Restaurant Automation**
-- QR ordering + billing with POS integration  
-- Real-time analytics  
-- Increased table turnover by **35%**
+**Focus:** making GPT usable inside real companies securely.
 
 ---
 
-## 🤖 AI Conversational & Agentic Systems (R&D)
+### 🎙️ Real-Time Voice AI Systems
 
-### **CallYourBuddy (2025)**
-- Emotional voice companion  
-- 50K+ monthly queries  
-- CrewAI / LangGraph multi-agent system
+I build self-hosted and scalable voice AI assistants that can handle live conversations, understand intent, respond naturally, and trigger workflows.
 
-### **SantaCallingAI (2024)**
-- 100K+ real-time sessions  
-- Twilio + Azure OpenAI  
-- Sub-**500ms** responses
+Voice AI work includes:
 
-### **VoiseIQ (2025)**
-- AI interviewer simulating FAANG interviews  
-- 1K+ daily users  
-- Planner–critic architecture (LangChain)
+* Real-time calling assistants
+* Speech-to-text and text-to-speech pipelines
+* AI call summaries and transcripts
+* Human handoff flows
+* Workflow automation from calls
+* Scalable voice agent infrastructure
+* Low-latency conversational systems
 
-### **AI Test Evaluator (2025)**
-- Multi-agent grader (Retriever, Grader, Coach)  
-- Rubric-based scoring  
-- Postgres/MySQL + Redis backend  
-- Observability via LangSmith + Ragas
-
-### **Dialogflow Bots (2022–ongoing)**
-- AWS Lambda + NLP pipelines  
-- 100K+ users monthly  
-- Sentiment & intent analysis
+**Focus:** turning phone calls into intelligent business workflows.
 
 ---
 
-# 🛠️ Tech Stack
+### 🏫 AI-Enabled EdTech Platforms
 
-### **Languages**  
-Python, JavaScript, C#, C++, R
+I build AI-first EdTech systems where uploaded PDFs, notes, videos, and course content become interactive tutors.
 
-### **AI/ML**  
-PyTorch, TensorFlow, Hugging Face, RAG, scikit-learn, Generative AI
+EdTech capabilities include:
 
-### **Agentic Systems**  
-LangChain, LangGraph, CrewAI, AutoGen, LlamaIndex
+* AI tutor trained on uploaded learning materials
+* PDF and video-based learning assistants
+* Voice-based doubt clearing
+* Question paper generation
+* Automated answer evaluation
+* Rubric-based grading
+* Student analytics
+* Custom LMS dashboards
 
-### **Databases & Ops**  
-PostgreSQL, MySQL, MongoDB, Redis, Spark, Docker, Kubernetes, CI/CD
-
-### **Cloud**  
-AWS (Lambda, EC2, SageMaker), Azure (OpenAI, Cognitive Services), GCP (Vertex AI)
-
-### **Monitoring & Evaluation**  
-LangSmith, Ragas, DeepEval, Grafana, Prometheus, OpenTelemetry
-
-### **Web/App Dev**  
-Next.js, React, NestJS, FastAPI, Django, Electron.js
-
-### **NLP & Speech**  
-Whisper, Dialogflow, Azure Speech, TTS/STT
-
-### **Computer Vision**  
-OpenCV, YOLO, Detectron2
+**Focus:** moving education from static LMS to AI-powered learning systems.
 
 ---
 
-# 🎓 Education  
+### ⚙️ SaaS & Workflow Automation
 
-**B.Tech in Computer Science**  
-*Cochin University of Science and Technology (2020–2024)*
+Through Cognifyr, I build production-grade platforms for:
 
----
-
-# 🏆 Achievements  
-- Top 10 finalist — **Quest Global Ingenium**  
-- Won **$1000+** in hackathons (IBW 2024)  
-- Completed **150+** JS challenges (Exercism)  
-- Certified — **Google AI Essentials (2024)**  
-
----
-
-# 📬 Contact  
-📧 **Email:** ajnasulqubra@gmail.com  
-🌐 **Website:** https://ajnasnb.com  
-🏢 **Startup:** https://cognifyr.co  
+* HR tech and recruitment automation
+* AI workflow routing
+* Restaurant QR ordering and POS automation
+* Customer support automation
+* ERP and business process digitization
+* Multi-tenant SaaS platforms
+* Internal dashboards and admin systems
 
 ---
 
-🎯 *Building the future with AI, agents, and automation—one product at a time.*
+## 🏢 Founder & CTO — Cognifyr
+
+**Dec 2023 – Present · Kochi, India**
+
+At Cognifyr, I lead product architecture, engineering, AI systems design, and delivery of AI-first business platforms.
+
+Cognifyr builds:
+
+* AI agents
+* RAG systems
+* Voice AI platforms
+* EdTech SaaS
+* HR automation platforms
+* ERP and workflow systems
+* Conversational applications
+* Custom enterprise software
+
+The goal is simple:
+
+> Build AI systems that help businesses work faster, smarter, and with less manual effort.
+
+---
+
+## 🧩 Selected Projects & Case Studies
+
+### 1. Enterprise AI Knowledge Assistant
+
+Built a secure AI knowledge layer for a leading Dubai-based business group.
+
+The system connects internal documents, dashboards, databases, and project records with GPT-powered search.
+
+Key features:
+
+* Azure AI Search
+* GPT model integration
+* Secure SSO login
+* Role-based access control
+* Permission-aware RAG
+* Custom admin dashboard
+* Source-backed answers
+* Audit logs
+
+---
+
+### 2. Private On-Prem AI for Healthcare Research
+
+Built a private AI + RAG system for a US healthcare organization that needed high-speed research search without sending sensitive data outside its environment.
+
+Key features:
+
+* On-premise AI deployment
+* Private document indexing
+* Secure RAG pipeline
+* Role-based retrieval
+* Source-backed medical research answers
+* Fast document search
+* Audit logs and admin governance
+
+---
+
+### 3. Self-Hosted Real-Time Voice AI Assistant
+
+Deployed a secure voice AI calling assistant capable of handling live conversations and automating business workflows.
+
+Key features:
+
+* Real-time speech-to-text
+* AI reasoning layer
+* Text-to-speech response
+* Call summaries
+* Human handoff
+* Workflow automation
+* Scalable voice agent infrastructure
+* Self-hosted deployment
+
+---
+
+### 4. AI-Enabled EdTech Platform
+
+Built a customizable EdTech SaaS where institutions can upload notes, PDFs, videos, and learning material to create AI tutors.
+
+Key features:
+
+* AI tutor from uploaded content
+* PDF and video learning assistant
+* Voice-based doubt clearing
+* Question paper generation
+* Automated answer evaluation
+* Rubric-based scoring
+* Student and teacher dashboards
+* Fully customizable LMS
+
+---
+
+### 5. AI HR & Recruitment Automation
+
+Built AI-powered HR workflows for recruitment and candidate screening.
+
+Key features:
+
+* AI JD generation
+* Resume parsing
+* Candidate ranking
+* Interview automation
+* Screening workflows
+* HR analytics
+* Attrition prediction concepts
+
+---
+
+### 6. AI Restaurant Automation
+
+Built QR-based restaurant ordering and automation systems.
+
+Key features:
+
+* QR menu ordering
+* Billing and POS integration
+* Real-time order dashboard
+* Kitchen workflow support
+* Analytics and reporting
+* AI-ready customer automation
+
+---
+
+## 🏆 Hackathons & Achievements
+
+* 🥇 **BNB Chain Global Hackathon 2025 — Top Winner**
+
+  * Awarded **$7,000 USD**
+
+* 🥇 **Arbitrum Open House Winner**
+
+  * Awarded **$10,000 USD**
+
+* 🏅 **Top 10 Finalist — Quest Global Ingenium**
+
+* 💰 Won **$1,000+** across additional hackathons and builder challenges
+
+---
+
+## 🛠️ Tech Stack
+
+### AI & Agentic Systems
+
+`RAG` · `LangChain` · `LangGraph` · `CrewAI` · `AutoGen` · `LlamaIndex` · `OpenAI` · `Azure OpenAI` · `Hugging Face`
+
+### Backend
+
+`Python` · `FastAPI` · `Django` · `Node.js` · `NestJS`
+
+### Frontend
+
+`Next.js` · `React` · `Electron.js`
+
+### Databases & Search
+
+`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Vector Databases` · `Azure AI Search`
+
+### Cloud & DevOps
+
+`AWS` · `Azure` · `GCP` · `Docker` · `Kubernetes` · `CI/CD`
+
+### Voice & Conversational AI
+
+`Whisper` · `Azure Speech` · `TTS/STT` · `Dialogflow` · `Twilio` · `Voice AI Agents`
+
+### Monitoring & Evaluation
+
+`LangSmith` · `Ragas` · `DeepEval` · `Grafana` · `Prometheus` · `OpenTelemetry`
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science**
+Cochin University of Science and Technology
+2020 – 2024
+
+---
+
+## 🌍 Links
+
+* Portfolio: [ajnasnb.com](https://ajnasnb.com)
+* Company: [cognifyr.co](https://cognifyr.co)
+* LinkedIn: [linkedin.com/in/ajnasnb](https://linkedin.com/in/ajnasnb)
+* GitHub: [github.com/AjnasNB](https://github.com/AjnasNB)
+* Email: [ajnasulqubra@gmail.com](mailto:ajnasulqubra@gmail.com)
+
+---
+
+## ⚡ Current Focus
+
+I am currently building AI-first systems around:
+
+* Enterprise RAG
+* Agentic AI workflows
+* Voice AI assistants
+* Private AI infrastructure
+* AI-enabled EdTech
+* Business automation platforms
+* Multi-tenant SaaS products
+
+> Building the future with AI, agents, and automation — one product at a time.
