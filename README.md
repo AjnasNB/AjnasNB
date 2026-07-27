@@ -1,294 +1,39 @@
-# 👋 Hi, I’m Ajnas N B
+# Ajnas N B
 
-### Founder & CTO at [Cognifyr](https://cognifyr.co)
+### Building the governed operating layer for AI agents.
 
-### Full Stack Engineer · AI Systems Architect · Agentic AI Builder
+I’m the Founder & CTO of [Cognifyr](https://cognifyr.co) and an engineer building open-source infrastructure that lets AI agents **see, remember, orchestrate, and act** without hiding authority, evidence, or provenance.
 
-I build **AI-first products, scalable SaaS platforms, enterprise RAG systems, voice AI agents, and automation infrastructure** for real businesses.
+[Portfolio](https://ajnasnb.com) · [Cognifyr](https://cognifyr.co) · [LinkedIn](https://linkedin.com/in/ajnasnb) · [Email](mailto:ajnasulqubra@gmail.com)
 
-My work sits at the intersection of:
+## Open-source agent stack
 
-* Enterprise AI
-* Agentic systems
-* Real-time conversational AI
-* Multi-tenant SaaS
-* Secure RAG and private knowledge systems
-* Cloud-native product engineering
+| Capability | Project | What it provides |
+| --- | --- | --- |
+| **Govern & act** | [Maqam](https://maqamagent.com) · [GitHub](https://github.com/AjnasNB/maqam) | Policy checks, exact one-use approvals, registered execution, and verifiable receipts for agent actions. |
+| **See** | [Cockroach Crawler](https://cockroachcrawler.com) · [GitHub](https://github.com/AjnasNB/cockroach-crawler) | Bounded crawling, browser rendering, extraction, source routing, and normalized evidence without unrestricted browser authority. |
+| **Remember** | [Qarinah](https://qarinah.io) · [GitHub](https://github.com/AjnasNB/qarinah) | Local-first, evidence-linked project memory that compiles compact cited context for coding agents. Its published benchmark reports **98.71% less estimated repeated context**. |
+| **Orchestrate** | [ProductLoop OS](https://github.com/AjnasNB/productloop-os) | Composable workflow, policy, approval, connector, skill, evaluation, provenance, and research packages around the stack. |
 
-I like building systems that move from **idea → prototype → production → real users**.
+Together, these projects form a practical control layer for agents that need real tools, durable context, public-web evidence, and human authority.
 
----
+## Production work
 
-## 🚀 What I Build
+Through [Cognifyr](https://cognifyr.co), I have built and led:
 
-### 🧠 Enterprise AI & RAG Systems
+- Enterprise knowledge assistants with SSO, permission-aware retrieval, citations, admin controls, and audit logs.
+- Private on-premises AI systems for sensitive healthcare research.
+- Real-time voice agents and workflow automation.
+- Multi-tenant SaaS and internal business platforms.
 
-I design secure AI assistants that work on private company data, internal documents, dashboards, databases, and role-based access controls.
+## Background
 
-Recent work includes:
+Founder & CTO at Cognifyr · B.Tech in Computer Science from Cochin University of Science and Technology · Winner of the Arbitrum Open House and BNB Chain Global Hackathon.
 
-* Enterprise knowledge assistants for large business groups
-* Private on-prem AI + RAG for sensitive healthcare research
-* Role-based retrieval systems where users only see what they are authorized to access
-* Hybrid search with citations, guardrails, and audit logs
-* Admin dashboards for managing AI usage, documents, users, and permissions
+**Core stack:** TypeScript, Node.js, Python, Next.js, PostgreSQL, Docker, Azure/AWS, RAG, MCP, and agent evaluation.
 
-**Focus:** making GPT usable inside real companies securely.
+## Building with me
 
----
+I’m looking for contributors, early users, and design partners working on enterprise agents, coding agents, secure tool execution, context infrastructure, or governed automation.
 
-### 🎙️ Real-Time Voice AI Systems
-
-I build self-hosted and scalable voice AI assistants that can handle live conversations, understand intent, respond naturally, and trigger workflows.
-
-Voice AI work includes:
-
-* Real-time calling assistants
-* Speech-to-text and text-to-speech pipelines
-* AI call summaries and transcripts
-* Human handoff flows
-* Workflow automation from calls
-* Scalable voice agent infrastructure
-* Low-latency conversational systems
-
-**Focus:** turning phone calls into intelligent business workflows.
-
----
-
-### 🏫 AI-Enabled EdTech Platforms
-
-I build AI-first EdTech systems where uploaded PDFs, notes, videos, and course content become interactive tutors.
-
-EdTech capabilities include:
-
-* AI tutor trained on uploaded learning materials
-* PDF and video-based learning assistants
-* Voice-based doubt clearing
-* Question paper generation
-* Automated answer evaluation
-* Rubric-based grading
-* Student analytics
-* Custom LMS dashboards
-
-**Focus:** moving education from static LMS to AI-powered learning systems.
-
----
-
-### ⚙️ SaaS & Workflow Automation
-
-Through Cognifyr, I build production-grade platforms for:
-
-* HR tech and recruitment automation
-* AI workflow routing
-* Restaurant QR ordering and POS automation
-* Customer support automation
-* ERP and business process digitization
-* Multi-tenant SaaS platforms
-* Internal dashboards and admin systems
-
----
-
-## 🏢 Founder & CTO — Cognifyr
-
-**Dec 2023 – Present · Kochi, India**
-
-At Cognifyr, I lead product architecture, engineering, AI systems design, and delivery of AI-first business platforms.
-
-Cognifyr builds:
-
-* AI agents
-* RAG systems
-* Voice AI platforms
-* EdTech SaaS
-* HR automation platforms
-* ERP and workflow systems
-* Conversational applications
-* Custom enterprise software
-
-The goal is simple:
-
-> Build AI systems that help businesses work faster, smarter, and with less manual effort.
-
----
-
-## 🧩 Selected Projects & Case Studies
-
-### 1. Enterprise AI Knowledge Assistant
-
-Built a secure AI knowledge layer for a leading Dubai-based business group.
-
-The system connects internal documents, dashboards, databases, and project records with GPT-powered search.
-
-Key features:
-
-* Azure AI Search
-* GPT model integration
-* Secure SSO login
-* Role-based access control
-* Permission-aware RAG
-* Custom admin dashboard
-* Source-backed answers
-* Audit logs
-
----
-
-### 2. Private On-Prem AI for Healthcare Research
-
-Built a private AI + RAG system for a US healthcare organization that needed high-speed research search without sending sensitive data outside its environment.
-
-Key features:
-
-* On-premise AI deployment
-* Private document indexing
-* Secure RAG pipeline
-* Role-based retrieval
-* Source-backed medical research answers
-* Fast document search
-* Audit logs and admin governance
-
----
-
-### 3. Self-Hosted Real-Time Voice AI Assistant
-
-Deployed a secure voice AI calling assistant capable of handling live conversations and automating business workflows.
-
-Key features:
-
-* Real-time speech-to-text
-* AI reasoning layer
-* Text-to-speech response
-* Call summaries
-* Human handoff
-* Workflow automation
-* Scalable voice agent infrastructure
-* Self-hosted deployment
-
----
-
-### 4. AI-Enabled EdTech Platform
-
-Built a customizable EdTech SaaS where institutions can upload notes, PDFs, videos, and learning material to create AI tutors.
-
-Key features:
-
-* AI tutor from uploaded content
-* PDF and video learning assistant
-* Voice-based doubt clearing
-* Question paper generation
-* Automated answer evaluation
-* Rubric-based scoring
-* Student and teacher dashboards
-* Fully customizable LMS
-
----
-
-### 5. AI HR & Recruitment Automation
-
-Built AI-powered HR workflows for recruitment and candidate screening.
-
-Key features:
-
-* AI JD generation
-* Resume parsing
-* Candidate ranking
-* Interview automation
-* Screening workflows
-* HR analytics
-* Attrition prediction concepts
-
----
-
-### 6. AI Restaurant Automation
-
-Built QR-based restaurant ordering and automation systems.
-
-Key features:
-
-* QR menu ordering
-* Billing and POS integration
-* Real-time order dashboard
-* Kitchen workflow support
-* Analytics and reporting
-* AI-ready customer automation
-
----
-
-## 🏆 Hackathons & Achievements
-
-* 🥇 **BNB Chain Global Hackathon 2025 — Top Winner**
-
-  * Awarded **$7,000 USD**
-
-* 🥇 **Arbitrum Open House Winner**
-
-  * Awarded **$10,000 USD**
-
-* 🏅 **Top 10 Finalist — Quest Global Ingenium**
-
-* 💰 Won **$1,000+** across additional hackathons and builder challenges
-
----
-
-## 🛠️ Tech Stack
-
-### AI & Agentic Systems
-
-`RAG` · `LangChain` · `LangGraph` · `CrewAI` · `AutoGen` · `LlamaIndex` · `OpenAI` · `Azure OpenAI` · `Hugging Face`
-
-### Backend
-
-`Python` · `FastAPI` · `Django` · `Node.js` · `NestJS`
-
-### Frontend
-
-`Next.js` · `React` · `Electron.js`
-
-### Databases & Search
-
-`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Vector Databases` · `Azure AI Search`
-
-### Cloud & DevOps
-
-`AWS` · `Azure` · `GCP` · `Docker` · `Kubernetes` · `CI/CD`
-
-### Voice & Conversational AI
-
-`Whisper` · `Azure Speech` · `TTS/STT` · `Dialogflow` · `Twilio` · `Voice AI Agents`
-
-### Monitoring & Evaluation
-
-`LangSmith` · `Ragas` · `DeepEval` · `Grafana` · `Prometheus` · `OpenTelemetry`
-
----
-
-## 🎓 Education
-
-**B.Tech in Computer Science**
-Cochin University of Science and Technology
-2020 – 2024
-
----
-
-## 🌍 Links
-
-* Portfolio: [ajnasnb.com](https://ajnasnb.com)
-* Company: [cognifyr.co](https://cognifyr.co)
-* LinkedIn: [linkedin.com/in/ajnasnb](https://linkedin.com/in/ajnasnb)
-* GitHub: [github.com/AjnasNB](https://github.com/AjnasNB)
-* Email: [ajnasulqubra@gmail.com](mailto:ajnasulqubra@gmail.com)
-
----
-
-## ⚡ Current Focus
-
-I am currently building AI-first systems around:
-
-* Enterprise RAG
-* Agentic AI workflows
-* Voice AI assistants
-* Private AI infrastructure
-* AI-enabled EdTech
-* Business automation platforms
-* Multi-tenant SaaS products
-
-> Building the future with AI, agents, and automation — one product at a time.
+Start in the relevant repository’s issues or discussions, or reach me at [ajnasulqubra@gmail.com](mailto:ajnasulqubra@gmail.com).
