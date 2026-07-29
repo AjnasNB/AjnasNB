@@ -36,4 +36,4 @@ Founder & CTO at Cognifyr · B.Tech in Computer Science from Cochin University o
 
 I’m looking for contributors, early users, and design partners working on enterprise agents, coding agents, secure tool execution, context infrastructure, or governed automation.
 
-Start in the relevant repository’s issues or discussions, or reach me at [ajnasulqubra@gmail.com](mailto:ajnasulqubra@gmail.com).
+Start in the relevant repository’s issues or discussions, or reach me at [ajnas@cognifyr.co](mailto:ajnas@cognifyr.co).
