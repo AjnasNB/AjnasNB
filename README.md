@@ -2,38 +2,34 @@
 
 ### Building the governed operating layer for AI agents.
 
-I’m the Founder & CTO of [Cognifyr](https://cognifyr.co) and an engineer building open-source infrastructure that lets AI agents **see, remember, orchestrate, and act** without hiding authority, evidence, or provenance.
+I’m the Founder & CTO of [Cognifyr](https://cognifyr.co), building open-source infrastructure for agents that can **browse, retrieve, remember, orchestrate, and act** while keeping authority, evidence, and provenance explicit.
 
-[Portfolio](https://ajnasnb.com) · [Cognifyr](https://cognifyr.co) · [LinkedIn](https://linkedin.com/in/ajnasnb) · [Email](mailto:ajnasulqubra@gmail.com)
+[Portfolio](https://ajnasnb.com) · [Cognifyr](https://cognifyr.co) · [LinkedIn](https://linkedin.com/in/ajnasnb) · [Email](mailto:ajnas@cognifyr.co)
 
 ## Open-source agent stack
 
 | Capability | Project | What it provides |
 | --- | --- | --- |
-| **Govern & act** | [Maqam](https://maqamagent.com) · [GitHub](https://github.com/AjnasNB/maqam) | Policy checks, exact one-use approvals, registered execution, and verifiable receipts for agent actions. |
-| **See** | [Cockroach Crawler](https://cockroachcrawler.com) · [GitHub](https://github.com/AjnasNB/cockroach-crawler) | Bounded crawling, browser rendering, extraction, source routing, and normalized evidence without unrestricted browser authority. |
-| **Remember** | [Qarinah](https://qarinah.io) · [GitHub](https://github.com/AjnasNB/qarinah) | Local-first, evidence-linked project memory that compiles compact cited context for coding agents. Its published benchmark reports **98.71% less estimated repeated context**. |
-| **Orchestrate** | [ProductLoop OS](https://github.com/AjnasNB/productloop-os) | Composable workflow, policy, approval, connector, skill, evaluation, provenance, and research packages around the stack. |
+| **Govern & execute** | [Maqam](https://maqamagent.com) · [GitHub](https://github.com/AjnasNB/maqam) | Policy checks, one-use approvals, registered execution, and verifiable receipts. |
+| **Browse & interact** | [Cockroach Browser](https://cockroachbrowser.com) · [GitHub](https://github.com/AjnasNB/cockroach-browser) | Local-first Chromium automation with scoped sessions, semantic interaction, evidence capture, and Maqam-governed actions. |
+| **Crawl & retrieve** | [Cockroach Crawler](https://cockroachcrawler.com) · [GitHub](https://github.com/AjnasNB/cockroach-crawler) | Bounded crawling, browser rendering, extraction, source routing, and normalized web evidence. |
+| **Remember** | [Qarinah](https://qarinah.io) · [GitHub](https://github.com/AjnasNB/qarinah) | Evidence-linked project memory that compiles compact, cited context for coding agents. |
+| **Orchestrate** | [ProductLoop OS](https://github.com/AjnasNB/productloop-os) | Composable workflows, policies, approvals, connectors, skills, evaluations, and provenance. |
 
-Together, these projects form a practical control layer for agents that need real tools, durable context, public-web evidence, and human authority.
+Together, these projects form a practical control layer for agents that need real tools, durable context, web evidence, and explicit human authority.
 
 ## Production work
 
-Through [Cognifyr](https://cognifyr.co), I have built and led:
-
-- Enterprise knowledge assistants with SSO, permission-aware retrieval, citations, admin controls, and audit logs.
-- Private on-premises AI systems for sensitive healthcare research.
-- Real-time voice agents and workflow automation.
-- Multi-tenant SaaS and internal business platforms.
+Through [Cognifyr](https://cognifyr.co), I have built enterprise knowledge assistants with SSO and permission-aware retrieval, private on-premises AI for healthcare research, real-time voice agents, workflow automation, and multi-tenant SaaS platforms.
 
 ## Background
 
-Founder & CTO at Cognifyr · B.Tech in Computer Science from Cochin University of Science and Technology · Winner of the Arbitrum Open House and BNB Chain Global Hackathon.
+Founder & CTO at Cognifyr · B.Tech in Computer Science, CUSAT · Winner of the Arbitrum Open House and BNB Chain Global Hackathon.
 
 **Core stack:** TypeScript, Node.js, Python, Next.js, PostgreSQL, Docker, Azure/AWS, RAG, MCP, and agent evaluation.
 
-## Building with me
+## Build with me
 
-I’m looking for contributors, early users, and design partners working on enterprise agents, coding agents, secure tool execution, context infrastructure, or governed automation.
+I’m looking for contributors, early users, research collaborators, and design partners building enterprise agents, coding agents, secure tool execution, or governed automation.
 
-Start in the relevant repository’s issues or discussions, or reach me at [ajnas@cognifyr.co](mailto:ajnas@cognifyr.co).
+Start in a repository’s issues or discussions, or reach me at [ajnas@cognifyr.co](mailto:ajnas@cognifyr.co).
