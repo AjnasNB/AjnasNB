@@ -4,7 +4,7 @@
 
 ### Building the infrastructure stack for enterprise AI agents.
 
-# CTO at [Cognifyr](https://cognifyr.co/)
+CTO at [Cognifyr](https://cognifyr.co/)
 
 I build open-source infrastructure that helps AI agents **remember context, retrieve evidence, interact with software, and execute actions under explicit human control**.
 
